@@ -1,0 +1,74 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Earle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "date_created": 1668107213558,
+      "id": 1
+    },
+    {
+      "requestId": "3",
+      "plumberId": "2",
+      "date_created": 1668107216932,
+      "id": 2
+    },
+    {
+      "requestId": "6",
+      "plumberId": "1",
+      "date_created": 1668107244560,
+      "id": 3
+    },
+    {
+      "requestId": "2",
+      "plumberId": "1",
+      "date_created": 1668107338821,
+      "id": 4
+    },
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "date_created": 1668107395299,
+      "id": 5
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "id": 2,
+      "description": "tooter full",
+      "address": "34445 Bianka Ports",
+      "budget": 500,
+      "neededBy": "2022-12-05"
+    },
+    {
+      "description": "Pooper needs scooper",
+      "address": "1 Frrrtttt Street",
+      "budget": "500",
+      "neededBy": "2022-11-25",
+      "id": 3
+    },
+    {
+      "description": "Sticky toilet seat",
+      "address": "42 street",
+      "budget": "400",
+      "neededBy": "2022-12-31",
+      "id": 6
+    }
+  ]
+}

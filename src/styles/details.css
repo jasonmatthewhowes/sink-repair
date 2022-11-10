@@ -1,0 +1,22 @@
+.serviceForm {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.field {
+    width: 80%
+}
+
+.input {
+    width: 90%;
+}
+
+.button {
+    width: 20%;
+    background-color: rgb(145, 145, 241);
+}
+
+.label {
+    font-size: larger;
+}
